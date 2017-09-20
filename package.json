@@ -10,6 +10,5 @@
     "save": "gulp save",
     "work": "gulp unzip"
   },
-  "name": "=[K.R.O]= Postal parcels",
   "description": "=[K.R.O]= Postal parcels"
 }
